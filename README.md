@@ -97,3 +97,39 @@ active la instancia
 <p> imagen </p>
 
 ![image](https://user-images.githubusercontent.com/7892120/147414096-83ba8f40-ae37-47c3-947d-de5960251961.png)
+
+### Prueba 7
+<li> http://localhost:8080/api/top50 </li
+    <p>PRUEBA TOP 50, trae las primeras 50 canciones</p>
+
+![image](https://user-images.githubusercontent.com/7892120/147414334-898e7fd5-79fe-44c6-a759-bd1ce0ee48bc.png)
+
+
+### Prueba 8
+<li> http://localhost:8080/api/search_autores </li
+    <p>PRUEBA serch_autores, trae las canciones por autor</p>
+
+![image](https://user-images.githubusercontent.com/7892120/147414417-30337ebf-62f3-4510-925b-f93dcc8b8088.png)
+
+
+### Prueba 9
+<li> http://localhost:8080/api/resultChange/171434594 </li>
+<p> Permite hacer put, get y delete a un artista o canción por su ID </p>
+
+![image](https://user-images.githubusercontent.com/7892120/147414503-987d0e38-5a24-4d2d-9ded-5d1111898894.png)
+
+
+### Prueba 10
+<li> http://localhost:8080/editar </li>
+<p> Permite hacer put, post y delete a un artista o canción por su ID </p>
+
+![image](https://user-images.githubusercontent.com/7892120/147414667-3d7daffd-68e9-4c88-86cd-528096c53a98.png)
+
+
+## Diseño de la base de datos
+
+![image](https://user-images.githubusercontent.com/7892120/147414712-b6e6c523-061a-428a-828f-6c67f9465add.png)
+
+## Diseño del backend
+
+![image](https://user-images.githubusercontent.com/7892120/147414726-6b2a28f8-35a6-4f67-9313-e23bae4ef76f.png)

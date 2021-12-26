@@ -32,7 +32,7 @@ active la instancia
 <li> localhost:8080/api/object</li>
 <li> { "id": "feed"}  </li>
 <p> imagen </p>
-![image](https://user-images.githubusercontent.com/7892120/147413852-e9d6f110-8b97-43c5-8995-1dbf5cf19b24.png)
+![image](https://user-images.githubusercontent.com/7892120/147414163-daf142fd-bf72-47e5-9a0b-5330bd7f31dc.png)
 
 ### Prueba 2
 
@@ -47,6 +47,7 @@ active la instancia
     "updated": "Sun, 26 Dec 2021 15:59:01 +0000" }
 </li>
 <p> imagen </p>
+
 ![image](https://user-images.githubusercontent.com/7892120/147413874-d6666d4e-3da4-4bf5-9cba-fe2b97b9126c.png)
 
 ### Prueba 3

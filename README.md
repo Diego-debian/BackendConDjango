@@ -32,7 +32,9 @@ active la instancia
 <li> localhost:8080/api/object</li>
 <li> { "id": "feed"}  </li>
 <p> imagen </p>
-![image](https://user-images.githubusercontent.com/7892120/147414163-daf142fd-bf72-47e5-9a0b-5330bd7f31dc.png)
+
+![image](https://user-images.githubusercontent.com/7892120/147414194-cc7aee17-24e8-4aff-8ec2-9a0a51f0f6f2.png)
+
 
 ### Prueba 2
 
@@ -59,7 +61,9 @@ active la instancia
     "url": "https://www.apple.com/" }
 </li>
 <p> imagen </p>
-![image](https://user-images.githubusercontent.com/7892120/147413967-e8b5fbbb-a72a-49a6-81ed-ad06af0b9096.png)
+
+![image](https://user-images.githubusercontent.com/7892120/147414223-b41549af-8ba0-4846-bed5-db915a5b259a.png)
+
 
 ### Prueba 4
 
@@ -69,7 +73,9 @@ active la instancia
     "selfs": "https://rss.applemarketingtools.com/api/v2/us/music/most-played/100/songs.json"}
 </li>
 <p> imagen </p>
-![image](https://user-images.githubusercontent.com/7892120/147413989-52cee4be-11a4-41cd-bd09-1866edf404c8.png)
+
+![image](https://user-images.githubusercontent.com/7892120/147414243-b0fde762-a81f-4b24-b1af-4ea2ac3f23b8.png)
+
 
 ### Prueba 5
 
@@ -77,7 +83,9 @@ active la instancia
 <li>{"feed": "https://rss.applemarketingtools.com/api/v2/us/music/most-played/100/songs.json", "artistName": "Mariah Carey", "id": "585972803", "name": "All I Want For Christmas Is You", "releaseDate": "1994-10-29", "kind": "songs", "artistId": "91853", "artistUrl": "https://music.apple.com/us/artist/mariah-carey/91853", "contentAdvisoryRating": "", "artworkUrl100": "https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/c6/b7/27/c6b727f7-3a32-6b43-cee2-05bb71daf1cf/dj.itfmdeif.jpg/100x100bb.jpg", "url": "https://music.apple.com/us/album/all-i-want-for-christmas-is-you/585972750?i=585972803"}
 </li>
 <p> imagen </p>
-![image](https://user-images.githubusercontent.com/7892120/147414024-7090921e-146d-4bc2-973e-ffc886d13d98.png)
+
+![image](https://user-images.githubusercontent.com/7892120/147414264-76e944b8-12eb-44b9-bbfc-02d59eae9f56.png)
+
 
 
 ### Prueba 6

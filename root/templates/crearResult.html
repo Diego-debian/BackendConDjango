@@ -1,0 +1,12 @@
+{% extends 'index.html' %}
+{% block titulo%} Formulario de resultado {% endblock titulo%}
+{% block pageName%} Crear usuario {% endblock pageName%}
+
+{% block tabla %} 
+<form method="post" class="form-control" id="miForm">
+    {% csrf_token %}
+    {{ form4.as_p }}
+    <button type="submit"> GUARDAR </button>
+</form>
+
+{% endblock tabla %}

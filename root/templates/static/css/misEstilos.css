@@ -1,0 +1,58 @@
+
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(../img/tecnico-universitario-en-informatica.jpg);
+    background-size: cover;
+    height: 100vh;
+  }
+
+#botonEditar{
+    background-color: rgba(0, 0, 255, 0.651);
+}
+#botonEliminar{
+    background-color: rgba(26, 49, 49, 0.582);
+}
+
+#superTabla {
+    margin-top: 30px;
+    margin-left: 25%;
+    background-color: rgb(42, 235, 170);
+    border: 3px solid;
+    border-color: black;
+    height: 400px;
+    width: auto;
+}
+
+#tabla-index{
+    table-layout: auto;
+    text-align: center;
+    list-style: overline;
+    width: auto;
+
+}
+#tituloSuperTabla{
+    margin-left: 35%;
+    color: aliceblue;
+}
+#miForm{
+    margin-top: auto;    
+    table-layout: auto;
+    text-align: center;
+    height: auto;
+    width: auto;
+}
+
+
+
+#PiePagina {
+	background-color:#ffffff;
+	height: 50%;
+    color: white;
+    padding: 10px;
+}
+
+.copyright{
+    color: aliceblue;
+    background-color: antiquewhite;
+}
